@@ -1,0 +1,16 @@
+{
+    "global": {
+        "delay_seconds": 5,
+        "repeat_count": 7
+    },
+    "unit_overrides": {
+        "unit_1": {
+            "delay_seconds": 5,
+            "repeat_count": 10
+        },
+        "unit_2": {
+            "delay_seconds": 5,
+            "repeat_count": 7
+        }
+    }
+}
